@@ -1,5 +1,6 @@
 <?php
-/* @var WP_Post $agreement */
+/* @var int $agreement_id */
+/* @var string $agreement_url */
 ?>
 
 <p id="sponsor-agreement-description-container" class="description hidden">
